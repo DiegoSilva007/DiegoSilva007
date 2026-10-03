@@ -61,7 +61,7 @@ A social network developed as my technical course capstone project.
 
 The application includes user authentication, profiles, posts, likes, comments, user search, following/unfollowing, feed functionality, and password management.
 
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQLAlchemy, and MySQL.
+**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQLAlchemy, Docker, MySQL.
 
 ### Carta de Serviços — Prefeitura de Bertioga
 
