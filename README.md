@@ -74,6 +74,7 @@ I worked on the redesign and improvement of the interface for the city's Service
 ### E-commerce API
 
 A REST API developed with Python for managing e-commerce resources, using SQLAlchemy and SQLite for data persistence.
+**Technologies:** Python, Flask, SQLAlchemy, SQLite
 
 ## 💼 Practical Experience
 
